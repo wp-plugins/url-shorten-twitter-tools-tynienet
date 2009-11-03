@@ -1,8 +1,8 @@
 === Plugin Name ===
 Contributors: phrixus
 Tags: twitter tools, twitter, tynie, url
-Requires at least: 2.0.2
-Tested up to: 2.1
+Requires at least: 2.0
+Tested up to: 2.8
 Stable tag: 0.3
 
 This plugin requires Twitter Tools. It will shorten all tweeted URL's using the Tynie.net service.
