@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: phrixus
-Tags: 
+Tags: broken
 Requires at least: 2.0
 Tested up to: 2.8
 Stable tag: 0.4
@@ -23,7 +23,7 @@ DO NOT INSTALL THIS PLUGIN. NO LONGER WORKS
 == Changelog ==
 
 = 0.4 =
-* Removed all action as Tunie.net is no longer running. DO NOT INSTALL THIS PLUGIN.
+* DO NOT INSTALL THIS PLUGIN. Removed all action as Tynie.net is no longer running. 
 
 = 0.3 =
 * Plugin added to WP repository.
